@@ -1,0 +1,10 @@
+# Ignore everything except for Python files and the requirements file.
+README.md
+.gcloudignore
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+components/__pycache__
+.pytest_cache
+run.txt

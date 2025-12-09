@@ -1,0 +1,7 @@
+__pycache__
+components/__pycache__
+run.txt
+.dockerignore
+.gcloudignore
+
+# Dockerfile
